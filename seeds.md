@@ -1,6 +1,6 @@
 # We need to talk about random seeds
 
-презентация: [seeds.pdf](files/seeds.pdf)
+презентация: [презентация](files/seeds.pdf)
 
 
 

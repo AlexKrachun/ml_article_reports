@@ -1,6 +1,6 @@
 # We need to talk about random seeds
 
-презентация: [презентация](files/seeds.pdf)
+презентация: [pdf](files/seeds.pdf), [pptx](files/seeds.pptx)
 
 [cтатья](https://arxiv.org/pdf/2210.13393)
 

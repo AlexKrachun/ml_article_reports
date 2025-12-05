@@ -1,6 +1,6 @@
 # Optuna A Next-generation Hyperparameter Optimization Framework
 
-[презентация](files/optuna.pdf)
+презентация [pdf](files/optuna.pdf), [pptx](files/optuna.pptx)
 
 [cтатья](https://arxiv.org/pdf/1907.10902)
 

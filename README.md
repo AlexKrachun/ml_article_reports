@@ -29,6 +29,7 @@ diffuision
 Без доклада:\
 вычитал:
 - [Null-text Inversion for Editing Real Images using Guided Diffusion Models](https://arxiv.org/abs/2211.09794)
+
 - [Learning an Image Editing Model without Image Editing Pairs](https://arxiv.org/pdf/2510.14978)
 
 ознакомился:

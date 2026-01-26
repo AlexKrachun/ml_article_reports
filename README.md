@@ -1,4 +1,4 @@
-# В этом репозетории копятся разобранные мной ml статьи
+<img width="689" height="168" alt="image" src="https://github.com/user-attachments/assets/2cb7d19e-a072-42d4-a053-4fe577c9b348" /><img width="689" height="168" alt="image" src="https://github.com/user-attachments/assets/8bba9f41-710b-4e55-80d7-0d5a3fd0092a" /># В этом репозетории копятся разобранные мной ml статьи
 
 на некоторые из них я дела презентации, доклады, план выступления (приведены, если есть). Некоторые я просто разбирал, а есть и те, что - вскользь осмотрел ради основного концепта.
 
@@ -40,4 +40,6 @@ diffuision
 - [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747)
 
 - [FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space](https://arxiv.org/pdf/2506.15742)
+
+- [Test-time Prompt Refinement for Text-to-Image Models](https://openaccess.thecvf.com/content/ICCV2025W/MARS2/papers/Khan_Test-time_Prompt_Refinement_for_Text-to-Image_Models_ICCVW_2025_paper.pdf)
 

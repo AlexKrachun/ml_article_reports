@@ -34,6 +34,12 @@ diffuision
 
 - [Decouple-Then-Merge: Finetune Diffusion Models as Multi-Task Learning](https://arxiv.org/pdf/2410.06664)
 
+- [Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](https://arxiv.org/pdf/2411.16503)
+
+- [A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis](https://arxiv.org/pdf/2402.12760)
+
+- [TextCraftor: Your Text Encoder Can be Image Quality Controller](https://arxiv.org/pdf/2403.18978)
+
 
 ознакомился:
 - [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) - classifier guidance
@@ -46,8 +52,5 @@ diffuision
 
 - [Test-time Prompt Refinement for Text-to-Image Models](https://openaccess.thecvf.com/content/ICCV2025W/MARS2/papers/Khan_Test-time_Prompt_Refinement_for_Text-to-Image_Models_ICCVW_2025_paper.pdf)
 
-- [Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](https://arxiv.org/pdf/2411.16503)
 
-- [A User-Friendly Framework for Generating Model-Preferred Prompts in
-Text-to-Image Synthesis](https://arxiv.org/pdf/2402.12760)
 

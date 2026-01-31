@@ -48,3 +48,6 @@ diffuision
 
 - [Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis](https://arxiv.org/pdf/2411.16503)
 
+- [A User-Friendly Framework for Generating Model-Preferred Prompts in
+Text-to-Image Synthesis](https://arxiv.org/pdf/2402.12760)
+

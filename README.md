@@ -52,5 +52,6 @@ diffuision
 
 - [Test-time Prompt Refinement for Text-to-Image Models](https://openaccess.thecvf.com/content/ICCV2025W/MARS2/papers/Khan_Test-time_Prompt_Refinement_for_Text-to-Image_Models_ICCVW_2025_paper.pdf)
 
+- [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/pdf/2305.01569)
 
 

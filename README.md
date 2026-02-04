@@ -54,4 +54,5 @@ diffuision
 
 - [Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation](https://arxiv.org/pdf/2305.01569)
 
+- [Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models](https://arxiv.org/abs/2601.20354v2)
 

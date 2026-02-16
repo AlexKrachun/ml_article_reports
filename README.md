@@ -22,6 +22,11 @@ diffuision
 - [Image Generation from Contextually-Contradictory Prompts](contradictory_prompts.md)
 
 
+llm
+- [Training Compute-Optimal Large Language Models](llm-optimal-scaling.md)
+
+
+
 
 \
 \
@@ -56,3 +61,4 @@ diffuision
 
 - [Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models](https://arxiv.org/abs/2601.20354v2)
 
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361)

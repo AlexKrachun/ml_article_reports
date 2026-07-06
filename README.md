@@ -45,7 +45,12 @@ llm
 
 - [TextCraftor: Your Text Encoder Can be Image Quality Controller](https://arxiv.org/pdf/2403.18978)
 
+- [Generative Visual Chain-of-Thought for Image Editing](https://arxiv.org/pdf/2603.01893v1)
+
+- [MIRA: Multimodal Iterative Reasoning Agent for Image Editing](https://arxiv.org/pdf/2511.21087)
+
 - [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246)
+
 
 ознакомился:
 - [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) - classifier guidance

@@ -51,6 +51,10 @@ llm
 
 - [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246)
 
+- [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/pdf/2307.15818)
+
+- [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)
+
 
 ознакомился:
 - [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) - classifier guidance

@@ -55,6 +55,12 @@ llm
 
 - [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)
 
+- [When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models](https://aclanthology.org/2026.acl-long.2066.pdf) - [note](when_does_language_matter.md)
+
+- [Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models](https://arxiv.org/pdf/2606.15714) - [note](beyond_english.md)
+
+
+
 
 ознакомился:
 - [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) - classifier guidance

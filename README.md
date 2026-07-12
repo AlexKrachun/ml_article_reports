@@ -58,7 +58,7 @@ llm
 - [When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models](https://aclanthology.org/2026.acl-long.2066.pdf) - [note](when_does_language_matter.md)
 
 - [Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models](https://arxiv.org/pdf/2606.15714) - [note](beyond_english.md)
-
+- [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision–Language–Action Models](https://arxiv.org/pdf/2606.19297) - [note](does_vla_even_know_the_basics.md)
 
 
 
